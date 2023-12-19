@@ -1,6 +1,6 @@
 # FoodAI
  A gpt powered food assistant with streamlit :)
- Some day I would make it into a camera app lo 
+ Some day I would make it into a camera app lol
 
  # Instructions
  Install the libraries with the requirement.txt
